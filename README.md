@@ -2,7 +2,6 @@
 # MangaTrack - Rastreador de Mangás
 
 <div align="center">
-  <img src="public/placeholder.svg" alt="MangaTrack Logo" width="200" />
   <h3>Acompanhe e organize sua coleção de mangás, manhwas e webtoons</h3>
 </div>
 
