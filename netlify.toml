@@ -1,0 +1,13 @@
+# netlify.toml para projeto Vite + React
+[build]
+  command = "vite build"
+  publish = "dist"
+
+[dev]
+  command = "vite"
+  port = 5173
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
