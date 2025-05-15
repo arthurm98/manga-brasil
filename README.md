@@ -243,12 +243,6 @@ Contribuições são bem-vindas! Para contribuir com o MangaTrack:
    ```sh
    npm install
    ```
-
-   Crie um arquivo `.env.local`:
-   ```env
-   
-   
-   ```
 4. **Inicie o servidor de desenvolvimento:**
    ```sh
    npm run dev
