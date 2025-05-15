@@ -1,7 +1,7 @@
 
 # MangaTrack - Rastreador de Mangás
 
-<div align="center">
+<div align="left">
   <h3>Acompanhe e organize sua coleção de mangás, manhwas e webtoons</h3>
 </div>
 
